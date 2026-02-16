@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "死んでしまったんだ",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2026-02-16T16:04:20.402889Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死んでしまったんだ",
+      "artist": "椎乃味醂",
+      "has_synced": false,
+      "path": "select/pl_01_死んでしまったんだ_椎乃味醂.txt"
+    }
+  ]
+}
